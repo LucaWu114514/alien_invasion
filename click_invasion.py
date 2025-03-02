@@ -4,11 +4,11 @@ import sys
 import pygame
 
 from settings import Settings
-from ship import Ship
+from sam import Ship
 from  time import sleep
 from bullet import Bullet
 from click_bullet import ClickBullet
-from alien import Alien
+from click import Alien
 
 from game_stats import GameStats
 from best_bullet import BestBullet
