@@ -3,7 +3,7 @@ from pathlib import Path
 import pygame.font
 from pygame.sprite import Group
 
-from ship import Ship
+from click import Ship
 
 class Scoreboard:
     def __init__(self,ai_game):
